@@ -4,10 +4,10 @@
 The Memory Match Game is a classic memory challenge game where players must repeat an increasingly complex sequence of colors. This web-based version of the Simon Game is built using HTML, CSS, and JavaScript, and offers an engaging and interactive way to test and improve your memory.
 
 ## Features
-- **Responsive Design**: The game interface adapts seamlessly to different screen sizes, ensuring a consistent experience on both mobile devices and desktops.
 - **Color Sequence Memory Challenge**: Players must remember and repeat a sequence of colors that increases in length with each successful round.
 - **Sound Effects**: Each color is associated with a unique sound, enhancing the gameplay experience.
 - **Game Over Notification**: Players are notified with a "Game Over" message when they make a mistake, with the option to restart the game.
+- **Technologies used: i have used html,css and javaScript(jquery libraries).
 
 ## Installation
 To play the Simon Game locally, follow these steps:
